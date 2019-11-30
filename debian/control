@@ -1,0 +1,12 @@
+Source: ros-melodic-baldor
+Section: misc
+Priority: optional
+Maintainer: Francisco Suarez-Ruiz <fsuarez6@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://wiki.ros.org/baldor
+Standards-Version: 3.9.2
+
+Package: ros-melodic-baldor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-numpy
+Description: The baldor package
