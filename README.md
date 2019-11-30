@@ -1,3 +1,26 @@
+## baldor (melodic) - 0.1.2-1
+
+The packages in the `baldor` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic baldor` on `Sat, 30 Nov 2019 05:41:35 -0000`
+
+The `baldor` package was released.
+
+Version of package(s) in repository `baldor`:
+
+- upstream repository: https://github.com/crigroup/baldor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## baldor (kinetic) - 0.1.2-0
 
 The packages in the `baldor` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release baldor --track kinetic --rosdistro kinetic` on `Sat, 30 Dec 2017 04:19:55 -0000`
