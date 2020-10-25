@@ -1,0 +1,12 @@
+Source: ros-noetic-baldor
+Section: misc
+Priority: optional
+Maintainer: Francisco Suarez-Ruiz <fsuarez6@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://wiki.ros.org/baldor
+Standards-Version: 3.9.2
+
+Package: ros-noetic-baldor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-numpy
+Description: The baldor package
